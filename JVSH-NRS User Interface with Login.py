@@ -43,15 +43,6 @@ status_label.grid(row=3, column=0, columnspan=2, padx=5, pady=5)
 root.mainloop()
 
 
-
-
-
-# CREATED BY JVSH-NRS ON GITHUB
-# CREATED BY JVSH-NRS ON GITHUB
-# CREATED BY JVSH-NRS ON GITHUB
-# CREATED BY JVSH-NRS ON GITHUB
-# CREATED BY JVSH-NRS ON GITHUB
-# CREATED BY JVSH-NRS ON GITHUB
 # CREATED BY JVSH-NRS ON GITHUB
 # CREATED BY JVSH-NRS ON GITHUB
 #todo Write script for login + include an interface
